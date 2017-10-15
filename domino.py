@@ -3,6 +3,7 @@
 # Instituto de Computacao - IComp
 # Universidade Federal do Amazonas - UFAM
 # Autores: Lukas Takatani - 21204522 - lekt@icomp.ufam.edu.br
+# 	   Arthur Melo - 21550189 - avgm@icomp.ufam.edu.br
 # Professor Avaliador: Professor Dr. Ruiter B. Caldas
 
 # Programa utilizando Python3, para execução digite no terminal "python3 domino.py" 
